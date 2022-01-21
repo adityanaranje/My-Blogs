@@ -5,6 +5,8 @@
 
 Click [here](https://adityanaranje.medium.com/t-20-cricket-data-cleaning-and-transformation-for-data-analysis-json-to-csv-using-python-bcb4b590e5a8)
 
+![](https://github.com/adityanaranje/My-Blogs/blob/main/Images/Datacleaning.jpg)
+
 2.  Data Analysis and Visualization of T-20 Cricket Data Using Python in Streamli to Create Dashboard
 
 Click [here](https://adityanaranje.medium.com/t-20-cricket-data-analysis-project-dashboard-using-python-in-streamlit-b4c44a134584)
