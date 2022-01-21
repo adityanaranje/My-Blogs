@@ -12,6 +12,7 @@ Click [here](https://adityanaranje.medium.com/t-20-cricket-data-analysis-project
 3. Basic of Statistic for Data Analysis and Implementation using Python
 
 Click [here](https://adityanaranje.medium.com/basics-of-statistics-for-data-analysis-and-implementation-using-python-9d150af9ef46)
+![](https://github.com/adityanaranje/My-Blogs/blob/main/Images/img1.png)
 
 4. Getting Started With Plotly-Python
 
