@@ -11,6 +11,8 @@ Click [here](https://adityanaranje.medium.com/t-20-cricket-data-cleaning-and-tra
 
 Click [here](https://adityanaranje.medium.com/t-20-cricket-data-analysis-project-dashboard-using-python-in-streamlit-b4c44a134584)
 
+![](https://github.com/adityanaranje/My-Blogs/blob/main/Images/img4.png)
+
 3. Basic of Statistic for Data Analysis and Implementation using Python
 
 Click [here](https://adityanaranje.medium.com/basics-of-statistics-for-data-analysis-and-implementation-using-python-9d150af9ef46)
